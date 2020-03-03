@@ -1,0 +1,21 @@
+employee login to our
+log hours for ticket
+
+we need a reports: which employye worked howmany hours
+Which tiocket took howmny hours
+
+
+two kinds of users: employee, manager, admin
+
+admin: create credentials of system users.
+manager: will look the effort reports.
+employee: will create ticket and log efforts on tickets
+
+search the efforts of other users..
+ticket status
+
+employee creates a report 
+
+Name of the porject:
+Proaction
+Incident management
